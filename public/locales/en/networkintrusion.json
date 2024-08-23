@@ -1,0 +1,79 @@
+{
+  "title": "Network Intrusion Detection System (NIDS)",
+  "image": "/projects/fb/hero.jpg",
+  "role": "Lead Security Developer",
+  "agency": "SLU",
+  "completed": "10.2023",
+  "awards": ["Best Security Solution Award"],
+  "modules": [
+    {
+      "component": "TextIntro",
+      "text": "For this high-stakes Network Intrusion Detection System project, we developed an advanced solution tailored to protect against sophisticated cyber threats. As the Lead Security Developer, I spearheaded the integration of cutting-edge threat detection algorithms, real-time monitoring dashboards, and automated response mechanisms, ensuring robust defense capabilities and seamless user experience."
+    },
+    {
+      "component": "Media",
+      "media": [
+        {
+          "src": "/projects/fb/fb.jpg",
+          "alt": "Fastweb"
+        }
+      ]
+    },
+    {
+      "component": "TextTwoColumns",
+      "title": "The challenge",
+      "text": "The project aimed to deliver a comprehensive security solution capable of detecting and mitigating a wide range of network threats.<br />The challenges included implementing high-performance real-time analytics, maintaining system stability under high traffic loads, and providing accurate threat detection without generating false positives.<br />Effective collaboration and iterative development were essential in overcoming these challenges and ensuring a reliable and scalable solution.",
+      "numbers": [
+        {
+          "value": 32,
+          "label": "Threat detection algorithms"
+        },
+        {
+          "value": 50,
+          "label": "Real-time alerts"
+        },
+        {
+          "value": 16,
+          "label": "Team members involved"
+        }
+      ]
+    },
+
+    {
+      "component": "Media",
+      "media": [
+        {
+          "src": "/projects/fb/fb-small-1.jpg",
+          "alt": "Fastweb mockup"
+        },
+        {
+          "src": "/projects/fb/fb-small-2.jpg",
+          "alt": "Fastweb mockup 2"
+        }
+      ]
+    },
+    {
+      "component": "TextTwoColumns",
+      "title": "Implementation and Results",
+      "text": "The project was executed using a combination of modern network security protocols and tools. We utilized Wireshark, Nessus, and Snort for monitoring and analysis, which led to a 50% improvement in overall network security. Our IDS successfully identified 90% of vulnerabilities within two weeks of discovery, and we achieved 100% compliance with ISO 27001 and PCI DSS standards."
+    },
+    {
+      "component": "Media",
+      "media": [
+        {
+          "src": "/projects/fb/fb-2.jpg",
+          "alt": "Fastweb Design Library"
+        }
+      ]
+    },
+    {
+      "component": "Media",
+      "media": [
+        {
+          "src": "/projects/fb/fb-3.jpg",
+          "alt": "UI Fastweb"
+        }
+      ]
+    }
+  ]
+}

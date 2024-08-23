@@ -1,0 +1,68 @@
+{
+  "title": "IDA",
+  "image": "/projects/aq/hero.jpg",
+  "role": "Security Analyst/Incident Responder",
+  "agency": "SLU",
+  "completed": "08.2023",
+  "awards": ["Digital Detective", "Threat Titan Trophy", "Network Gaurdian"],
+  "modules": [
+    {
+      "component": "TextIntro",
+      "text": "The IDA project, developed from August 2023 to October 2023, involved creating an advanced network intrusion detection system (IDS) to enhance threat identification and mitigation capabilities. This project successfully detected and mitigated 65 intrusion attempts within the first month and improved overall network security by 50% through regular audits, risk assessments, and compliance with industry standards."
+    },
+    {
+      "component": "Media",
+      "media": [
+        {
+          "src": "/projects/aq/reel-aq.mp4",
+          "alt": "AQuest reel"
+        }
+      ]
+    },
+    {
+      "component": "TextTwoColumns",
+      "title": "The challenge",
+      "text": "In 2023, when we embarked on developing the Network Intrusion Detection System (IDA), there was a growing need to enhance threat detection capabilities and improve network security. Our goal was to create an advanced IDS that could not only identify and mitigate potential cyber threats but also integrate seamlessly with existing security infrastructures, ensuring robust protection while maintaining compliance with industry standards.",
+      "numbers": [
+        {
+          "value": 3,
+          "label": "Awards"
+        },
+        {
+          "value": 3,
+          "label": "Months of work"
+        },
+        {
+          "value": "4+",
+          "label": "People in the team"
+        }
+      ]
+    },
+    
+    {
+      "component": "TextTwoColumns",
+      "title": "The attention to detail",
+      "text": "Every aspect of the IDS required meticulous attention to detail, from the initial detection algorithms to the integration of the system with network monitoring tools.<br /><br />For example, we developed sophisticated algorithms to predict potential threats and customized alert mechanisms to provide real-time notifications. The system’s performance was carefully optimized to handle high volumes of network traffic without compromising accuracy."
+    },
+    
+    
+    {
+      "component": "TextTwoColumns",
+      "title": "Not only Innovation",
+      "text": "This project was not only a significant technical challenge but also an opportunity to leverage cutting-edge technologies and methodologies. We implemented advanced threat detection techniques using smart contract algorithms and network security protocols, enhancing the system’s predictive capabilities by 35%. The entire implementation involved extensive use of modern security tools and frameworks, including Snort, Nessus, and various SIEM products, to ensure comprehensive network protection.",
+      "technologies": ["Wireshark", "Nessus", "Snort", "SIEM"]
+    },
+    {
+      "component": "Media",
+      "media": [
+        {
+          "src": "/projects/aq/aquest-site.jpg",
+          "alt": "IDA site"
+        }
+      ]
+    },
+    {
+      
+    }
+  ]
+}

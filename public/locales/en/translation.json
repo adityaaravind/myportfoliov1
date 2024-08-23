@@ -10,18 +10,18 @@
   "go to project": "Go to",
   "intro": {
     "p1": {
-      "l1": "It's all about technology",
-      "l2": "and design process"
+      "l1": "In the realm of cybersecurity and blockchain,",
+      "l2": "innovation safeguards our digital assets"
     },
     "p2": {
-      "l1": "Research and innovation",
-      "l2": "are the driver of memorable experiences"
+      "l1": "As a Creative Technologist,",
+      "l2": "I merge research and creativity to redefine trust in the digital frontier."
     },
     "p3": {
-      "l1": "I'm a Creative Technologist"
+      "l1": "Cybersecurity and Blockchain Strategist"
     },
     "p4": {
-      "l1": "They Call Me Giulio."
+      "l1": "Aditya Aravind."
     },
     "scroll_cta": {
       "line1": "Scroll down",
@@ -30,42 +30,42 @@
   },
   "portfolio": {
     "intro": [
-      "I craft",
-      "interactive digital<br />experiences.",
-      "From information architecture, to researching UI elements, to maniacally curating interactions.",
-      "Plus, my first love, program optimization."
+      "I craft cutting-edge",
+      "cybersecurity solutions<br />blockchain and Web3 solutions.",
+      "From penetration testing to implementing robust incident response plans, I leverage blockchain for enhanced security and immutability. With expertise in secure coding, threat modeling, and blockchain integration",
+      "I ensure the resilience of systems against advanced persistent threats."
     ],
     "portfolio": [
       "Projects",
-      "I have collaborated with companies such as: <strong>Nexi</strong>, <strong>Sky</strong>, <strong>Fastweb</strong>, <strong>IBL</strong>, <strong>Generali</strong>, <strong>Corner</strong>, <strong>AMDL Circle</strong>.<br /><br />",
+      "I have worked on cybersecurity and blockchain projects such as: <strong>IDA</strong>, <strong>Cyber Threats</strong>, <strong>Gas Token Concept</strong>, <strong>IRM</strong>, <strong>Generali</strong>, <strong>Corner</strong>, <strong>AMDL Circle</strong>.<br /><br />",
       "Here are some of my most relevant projects."
     ]
   },
   "about": {
     "intro": [
-      "I was born in <ImageVenice>Venice</ImageVenice> in september '86, today I live in Como and work at <ImageSketchin>Sketchin</ImageSketchin>, an advanced-design studio, as Creative Technologist.",
-      "<pre>Twenty/ys</pre>ago the first<br />version of<br /> TheyCallMeGiulio",
-      "The third version, in 2004, was the first to have the top-level domain <ImageTCMGTK>theycallmegiulio.tk</ImageTCMGTK>",
-      "Since then I have been designing and implementing virtual experiences. I have studied different programming languages and databases to cover the whole stack.",
-      "Today I think in javascript."
+      "I was born in <ImageVenice>Khammam, India</ImageVenice> in october 98, today I live in Saint Louis, MO and a recent graduate student from M.S. in Cyber/Electronic operations and warfare from <ImageSketchin>SLU</ImageSketchin>",
+      ".",
+      "Since then I have been designing and implementing cybersecurity, blockchain applications. I have studied different programming languages and databases to cover the whole stack."
+    
     ],
-    "clan_title": ["Numbers", "One"],
+    "clan_title": ["Full Stack Security", "Developer"],
     "clan": [
-      "It is the name of a clan of players of which I was the co-founder. A community whose main interest was a passion for <ImageBW>Starcraft: Brood War</ImageBW>.",
-      "At that time (it was the early 2000s) I began to combine fun for this game and passion for my work, practicing building the first <ImageNO2>Numbers One</ImageNO2> website.",
-      "A year later I built a <ImageNO3>web 2.0 portal</ImageNO3> with features such as logins, news, interviews, uploads and sharing of game replays. Visual design with Photoshop, frontend with HTML, CSS and Javascript. Custom backend with PHP Codeigniter and MySql. It still looks like a modern stack.",
-      "Today, as then, I enrich my work with constant training, updating, sharing and curiosity."
+      "Led a major enhancement project for a leading British energy website, improving user experience by 30%, site performance by 25%, and bolstering security measures. ",
+      "Developed and optimized the website's front-end and back-end using a wide array of technologies, resulting in a 20% increase in site traffic and a 15% increase in user retention rate.",
+      "Implemented secure coding practices, successfully mitigating potential cyber threats, including code injection attacks and data breaches.",
+      "Leveraged knowledge of cybersecurity frameworks such as NIST, ISO, CIS, and SOC 2, enhancing the security posture of the website."
     ],
     "method_title": "Method<br /><pre>&</pre>Acknowledgements",
     "method": [
-      "Creating a successful product is not just about having beautiful aesthetics and impressive animations.<br />The effectiveness and usability of a project depends on the synergies formed between designer and developer.",
-      "I emphasize Lean and Agile<br />methodologies",
-      "I promote continuous, attitudinal<br />and methodical improvement<br />for myself and others",
-      "If international recognition comes on top of that, it is a greater satisfaction."
+      "Reduced critical vulnerabilities by 45% through comprehensive penetration testing and remediation.",
+      "I leverage Agile methodologies and promote continuous improvement through ongoing research, collaboration, and upskilling.<br />and methodical improvement<br />for myself and others",
+      "Decreased incident response time by 35% via automation and <br /> orchestration.",
+      "Developed successful blockchain solutions, including a Proof of Concept for Gas Tokens and an NFT Marketplace."
+
     ]
   },
   "contact": {
     "intro": "You can get in touch with me by writing to",
-    "social_intro": "You can find me a little less on social, but if you want you can also contact me on"
+    "social_intro": "You can find me on LinkedIn"
   }
 }

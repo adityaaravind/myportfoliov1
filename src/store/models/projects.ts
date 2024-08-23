@@ -9,29 +9,19 @@ type Project = {
 
 const initialState: Project[] = [
   {
-    name: 'Sketchin',
-    url: 'sketchin',
+    name: 'Cyber Threats',
+    url: 'cyberthreats',
     videoID: 'skReel'
   },
   {
-    name: 'AQuest',
-    url: 'aquest',
+    name: 'Intrusion Detection and Analysis',
+    url: 'intrusiondetection',
     videoID: 'aqReel'
   },
   {
-    name: 'Fastweb',
-    url: 'fastweb',
+    name: 'Netowork Intrusion Detection System',
+    url: 'networkintrusion',
     videoID: 'fbReel'
-  },
-  {
-    name: 'Feudi',
-    url: 'feudi',
-    videoID: 'feudiReel'
-  },
-  {
-    name: 'Claraluna',
-    url: 'claraluna',
-    videoID: 'claralunaReel'
   }
 ]
 

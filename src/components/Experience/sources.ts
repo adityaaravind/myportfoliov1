@@ -87,12 +87,12 @@ const sources: Sources = [
   {
     name: 'venice',
     type: 'texture',
-    path: '/images/venice.jpeg'
+    path: '/images/khammam.webp'
   },
   {
     name: 'sketchin',
     type: 'texture',
-    path: '/images/sketchin.jpg'
+    path: '/images/me.png'
   },
   {
     name: 'tcmgtk',

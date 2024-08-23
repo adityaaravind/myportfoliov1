@@ -1,0 +1,82 @@
+{
+  "title": "Cyber Threats and Defences",
+  "image": "/projects/sk/hero.jpeg",
+  "role": "Lead Security Analyst & Developer",
+  "agency": "SlU",
+  "completed": "12.2022",
+  "awards": ["Best Security Project 2022"],
+  "modules": [
+    {
+      "component": "TextIntro",
+      "text": "Cyber-neo is an advanced network intrusion detection system designed to proactively identify and mitigate potential cyber threats. I spearheaded the development of this project, combining state-of-the-art detection techniques with robust security protocols to safeguard against evolving threats."
+    },
+    
+    {
+      "component": "TextTwoColumns",
+      "title": "The challenge",
+      "text": "Faced with increasing sophistication of cyber threats, our goal was to develop a network IDS that could not only detect but also predict potential security breaches. The challenge was to build a system that integrates seamlessly with existing infrastructures, providing real-time alerts while maintaining high performance across network traffic.<br /><br />Our approach involved leveraging smart contract algorithms and advanced network security protocols to enhance detection capabilities by 35%. We focused on ensuring the system's adaptability and accuracy to provide comprehensive protection.",
+      "technologies": ["python", "flask", "docker", "kubernetes", "snort"]
+    },
+
+    {
+      "component": "Media",
+      "media": [
+        {
+          "src": "/projects/sk/sk-navi-1.jpg",
+          "alt": "Sketchin project filters"
+        },
+        {
+          "src": "/projects/sk/sk-navi-2.jpg",
+          "alt": "Sketchin menu navigation"
+        }
+      ]
+    },
+    {
+      "component": "TextTwoColumns",
+      "title": "Integration & Performance",
+      "text": "We integrated the IDS with cutting-edge security tools and frameworks such as Snort, Nessus, and various SIEM products. The system was tested rigorously through network audits and risk assessments, identifying and patching 90% of potential vulnerabilities within two weeks.<br /><br />The IDS successfully mitigated 65 intrusion attempts within the first month of deployment, demonstrating a 50% improvement in network security posture. We also ensured 100% compliance with industry standards like ISO 27001 and PCI DSS, achieving top ratings in external security audits."
+    },
+    
+    {
+      "component": "Media",
+      "media": [
+        {
+          "src": "/projects/sk/sk-hero.jpg",
+          "alt": "Sketchin services page"
+        }
+      ]
+    },
+    {
+      "component": "TextTwoColumns",
+      "title": "Automations",
+      "text": "To streamline incident response and enhance efficiency, we implemented a suite of automation features within the Cyberthreats IDS. Automated scripts were developed to handle routine tasks such as log analysis, threat classification, and alert generation. This automation reduced manual intervention by 60% and accelerated the response time to potential threats.<br /><br />For real-time monitoring and alerting, we utilized custom automation tools that integrated with our SIEM solutions, automatically triggering alerts and generating detailed reports upon detecting suspicious activities. This approach ensured a rapid response to emerging threats and minimized the potential impact on network security."
+    },
+    
+    {
+      "component": "TextTwoColumns",
+      "title": "A modular front-end",
+      "text": "The Cyberthreats IDS features a modular front-end architecture designed for flexibility and scalability. Using a component-based approach, we developed a front-end that allows for dynamic updates and customization of the user interface.<br /><br />The modular design enables seamless integration of various security modules, such as real-time monitoring dashboards and threat analysis tools. This architecture supports easy updates and expansions, allowing us to incorporate new features and security enhancements without overhauling the entire system. The front-end was built using modern web technologies and frameworks, ensuring a responsive and intuitive user experience.",
+      "numbers": [
+        {
+          "value": "10+",
+          "label": "Modular components"
+        },
+        {
+          "value": "2+",
+          "label": "Months of development"
+        },
+        {
+          "value": "6+",
+          "label": "Team members involved"
+        }
+      ]
+    },
+    
+    {
+      "component": "Media",
+      "media": [
+        
+      ]
+    }
+  ]
+}

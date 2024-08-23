@@ -35,8 +35,14 @@ const techs: { [keys: string]: string } = {
   redux: '/images/redux.jpg',
   rx: '/images/rx.jpg',
   three: '/images/three.jpg',
-  vite: '/images/vite.jpg',
-  webpack: '/images/webpack.jpg'
+  docker: '/images/docker.svg',
+  flask: '/images/flask.png',
+  kubernetes: '/images/kubernetes.png',
+  snort: '/images/snort.png',
+  wireshark: '/images/wireshark.webp',
+  nessus: '/images/nessus.png',
+  siem: '/images/siem.png',
+  python: '/images/python.png'
 }
 
 const TextTwoColumns = ({ title, text, numbers, technologies }: Props) => {

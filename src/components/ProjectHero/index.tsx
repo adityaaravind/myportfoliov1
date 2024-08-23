@@ -77,22 +77,7 @@ const ProjectHero = () => {
                 )}
               </div>
             </div>
-            <div className={style.live}>
-              {liveURL && (
-                <a
-                  href={liveURL}
-                  target="_blank"
-                  onMouseEnter={overHandler}
-                  onMouseLeave={outHandler}
-                >
-                  {/* Visit live <img src="/icons/arrow-right.svg" /> */}
-                  Visit live{' '}
-                  <span className={style.externalArrow}>
-                    <ExternalArrow />
-                  </span>
-                </a>
-              )}
-            </div>
+            {/* Removed the live URL section */}
           </div>
         </div>
       </div>
