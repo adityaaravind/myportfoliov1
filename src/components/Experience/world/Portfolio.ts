@@ -121,7 +121,7 @@ export default class Portfolio {
       },
       {
         name: 'IDA',
-        url: 'intusiondetection',
+        url: 'intrusiondetection',
         video: document.getElementById('aqReel') as HTMLVideoElement
       },
       {
